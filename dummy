@@ -1,0 +1,23 @@
+<h1 class="absolute text-3xl font-extrabold text-white" style=" top:30%;left:30%;">Level up your style with our </h1>
+   <p class="absolute text-white font-semibold text-lg" style="top:40%; left:40%">Summer Collection</p>
+   <button class="absolute border p-2 rounded-md bg-white cursor-pointer hover:bg-gray-300" style="top:50% ;left:43%" id="shopNow">shop Now-></button>
+  <p class="absolute font-bold text-8xl text-white cursor-pointer" style="top:40%; left:5%;" id="prevBtn"><</p>
+  <p class="absolute font-bold text-8xl text-white cursor-pointer " style="top:40%; right:5%;" id="nextBtn">></p>
+
+
+
+<!--Slider for Images-->
+<section class="slideContainer" style="max-width: 100% ;overflow: hidden;">
+   <img src="./images/slide2.jpg" alt="clothImage" class=" slideImage p-3 relative  rounded-lg slideImage" id="slideImg">
+   <img src="./images/slide1.jpg" alt="clothImage" class=" slideImag p-3 rounded-lg   slideImage " id="slideImg" >
+   <img src="./images/slide3.jpg" alt="clothImage" class=" slideImag p-3 rounded-lg  slideImage  " id="slideImg">
+
+ <h1 class="absolute  font-extrabold text-white top-36 left-24">Level up your style with our </h1>
+   <p class="para absolute text-white font-semibold top-44 left-32 md:top-80">Summer Collection</p>
+   <button class="absolute border p-2 rounded-md bg-white cursor-pointer top-52 left-36 hover:bg-gray-300 md:top-96"id="shopNow">shop Now-></button>
+  <p class="absolute font-bold text-8xl  text-white cursor-pointer top-32 left-2"id="prevBtn"><</p>
+  <p class="absolute font-bold text-8xl   text-white cursor-pointer slider top-32 right-2 "id="nextBtn">></p>
+
+
+
+</section>
